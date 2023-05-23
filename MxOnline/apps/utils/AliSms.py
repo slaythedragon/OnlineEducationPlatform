@@ -10,9 +10,9 @@ def send_single_sms(code, mobile):
     def create_client():
         config = open_api_models.Config(
             # AccessKey ID,从用户信息管理-安全信息管理中复制
-            access_key_id="LTAI5tJf7j43hvncGaxrDVWB",
+            access_key_id="",
             # AccessKey Secret
-            access_key_secret="8QcN3wTLqFyGvxdVSvZ4xz47WGvFVK"
+            access_key_secret=""
         )
         # 访问的域名
         config.endpoint = f'dysmsapi.aliyuncs.com'
@@ -43,7 +43,7 @@ def send_single_sms(code, mobile):
 
 # 当这个程序被导入时，__name__不为__main__，便不会执行以下
 if __name__ == "__main__":
-    res = send_single_sms(2727, '18535111908')
+    res = send_single_sms(2727, '18535111111')
     # 转化为字符串，再将单引号变为双引号
     res = str(res).replace("'", '"')
     # 变为json字典形式
