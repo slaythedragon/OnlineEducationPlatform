@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77ee97c1-66ae-4177-a0c6-5d039e390aac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sNb0uyI8cPo2FnmKHQFE0038ZB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MxOnline" />
+      <recent name="D:\MxOnline\apps\utils" />
+      <recent name="D:\MxOnline\templates" />
+      <recent name="D:\MxOnline\apps\users" />
+      <recent name="D:\MxOnline\apps\courses" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MxOnline\apps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.AliSms">
+    <configuration name="usercenter-info.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MxOnline/templates/usercenter-info.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="AliSms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apps/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apps/utils/AliSms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="facialRecognize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apps/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apps/utils/facialRecognize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redis-test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/redis-test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sql_inject_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/sql_inject_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MxOnline" type="Python.DjangoServer" factoryName="Django server">
+      <module name="MxOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MxOnline.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AliSms" />
+        <item itemvalue="Python.facialRecognize" />
+        <item itemvalue="Python.sql_inject_test" />
+        <item itemvalue="JavaScript Debug.usercenter-info.html" />
+        <item itemvalue="Python.redis-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77ee97c1-66ae-4177-a0c6-5d039e390aac" name="Default Changelist" comment="" />
+      <created>1620715774572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620715774572</updated>
+      <workItem from="1620715776580" duration="7641000" />
+      <workItem from="1620787101145" duration="2918000" />
+      <workItem from="1620799715894" duration="3111000" />
+      <workItem from="1620816526569" duration="105000" />
+      <workItem from="1620896282720" duration="1879000" />
+      <workItem from="1620901712959" duration="7305000" />
+      <workItem from="1620951457606" duration="3502000" />
+      <workItem from="1620972436172" duration="1014000" />
+      <workItem from="1620981791109" duration="1750000" />
+      <workItem from="1632378676041" duration="8765000" />
+      <workItem from="1632443690890" duration="20138000" />
+      <workItem from="1632899349677" duration="5895000" />
+      <workItem from="1632966012248" duration="12487000" />
+      <workItem from="1633999222430" duration="19317000" />
+      <workItem from="1634271812255" duration="9801000" />
+      <workItem from="1635508377425" duration="11000" />
+      <workItem from="1635728150978" duration="13716000" />
+      <workItem from="1635763263462" duration="97000" />
+      <workItem from="1635814153788" duration="14662000" />
+      <workItem from="1635899420991" duration="4942000" />
+      <workItem from="1636512267640" duration="614000" />
+      <workItem from="1636514025602" duration="2000" />
+      <workItem from="1636515011129" duration="14125000" />
+      <workItem from="1636598130217" duration="964000" />
+      <workItem from="1636677981124" duration="3191000" />
+      <workItem from="1636688352551" duration="4115000" />
+      <workItem from="1636886148967" duration="996000" />
+      <workItem from="1636887629830" duration="3157000" />
+      <workItem from="1637226443585" duration="2328000" />
+      <workItem from="1637307587872" duration="8336000" />
+      <workItem from="1638152502688" duration="11446000" />
+      <workItem from="1638246863056" duration="5009000" />
+      <workItem from="1638255773326" duration="7934000" />
+      <workItem from="1638328607291" duration="982000" />
+      <workItem from="1638340136992" duration="9000" />
+      <workItem from="1638343425017" duration="493000" />
+      <workItem from="1638344543643" duration="11569000" />
+      <workItem from="1638411958520" duration="5418000" />
+      <workItem from="1638588556338" duration="649000" />
+      <workItem from="1638690763586" duration="3585000" />
+      <workItem from="1638766216279" duration="5692000" />
+      <workItem from="1638868016435" duration="4505000" />
+      <workItem from="1638939041750" duration="6710000" />
+      <workItem from="1639968662956" duration="842000" />
+      <workItem from="1640052308908" duration="11695000" />
+      <workItem from="1640140543162" duration="300000" />
+      <workItem from="1640141055162" duration="30000" />
+      <workItem from="1640166219243" duration="8530000" />
+      <workItem from="1640230607477" duration="3242000" />
+      <workItem from="1640314231359" duration="8034000" />
+      <workItem from="1642126002919" duration="2533000" />
+      <workItem from="1642734520764" duration="9235000" />
+      <workItem from="1644984981147" duration="1190000" />
+      <workItem from="1645748173559" duration="10000" />
+      <workItem from="1646012749420" duration="18031000" />
+      <workItem from="1646097668164" duration="18481000" />
+      <workItem from="1646182814749" duration="6158000" />
+      <workItem from="1646268478685" duration="8753000" />
+      <workItem from="1646355574283" duration="15697000" />
+      <workItem from="1646614368404" duration="10493000" />
+      <workItem from="1646704943796" duration="10291000" />
+      <workItem from="1646733034098" duration="905000" />
+      <workItem from="1646738635341" duration="2117000" />
+      <workItem from="1646788324341" duration="7834000" />
+      <workItem from="1646807383825" duration="7046000" />
+      <workItem from="1646874618921" duration="17127000" />
+      <workItem from="1646960924962" duration="12800000" />
+      <workItem from="1647219451410" duration="26884000" />
+      <workItem from="1647305615460" duration="8470000" />
+      <workItem from="1647391983635" duration="2829000" />
+      <workItem from="1647419029825" duration="34000" />
+      <workItem from="1647490632240" duration="1404000" />
+      <workItem from="1649231707517" duration="237000" />
+      <workItem from="1649766952520" duration="604000" />
+      <workItem from="1650264205270" duration="8972000" />
+      <workItem from="1650419469071" duration="3497000" />
+      <workItem from="1650519842390" duration="2128000" />
+      <workItem from="1650543153209" duration="217000" />
+      <workItem from="1650543383513" duration="23000" />
+      <workItem from="1650601515072" duration="2721000" />
+      <workItem from="1650763415583" duration="4476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Deployment" timestamp="1650423730025">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state x="395" y="91" key="#Deployment/68.0.1468.864@68.0.1468.864" timestamp="1650423730025" />
+    <state x="533" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650264304280">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state x="533" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/68.0.1468.864@68.0.1468.864" timestamp="1650264304280" />
+    <state x="583" y="187" key="FileChooserDialogImpl" timestamp="1646788390191">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state x="583" y="187" key="FileChooserDialogImpl/68.0.1468.864@68.0.1468.864" timestamp="1646788390191" />
+    <state width="1425" height="282" key="GridCell.Tab.0.bottom" timestamp="1650619903247">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state width="1469" height="259" key="GridCell.Tab.0.bottom/1988.0.1468.864/68.0.1468.960@68.0.1468.960" timestamp="1645142652866" />
+    <state width="1425" height="282" key="GridCell.Tab.0.bottom/68.0.1468.864@68.0.1468.864" timestamp="1650619903247" />
+    <state width="1425" height="282" key="GridCell.Tab.0.center" timestamp="1650619903247">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state width="1469" height="259" key="GridCell.Tab.0.center/1988.0.1468.864/68.0.1468.960@68.0.1468.960" timestamp="1645142652866" />
+    <state width="1425" height="282" key="GridCell.Tab.0.center/68.0.1468.864@68.0.1468.864" timestamp="1650619903247" />
+    <state width="1425" height="282" key="GridCell.Tab.0.left" timestamp="1650619903247">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state width="1469" height="259" key="GridCell.Tab.0.left/1988.0.1468.864/68.0.1468.960@68.0.1468.960" timestamp="1645142652866" />
+    <state width="1425" height="282" key="GridCell.Tab.0.left/68.0.1468.864@68.0.1468.864" timestamp="1650619903247" />
+    <state width="1425" height="282" key="GridCell.Tab.0.right" timestamp="1650619903247">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state width="1469" height="259" key="GridCell.Tab.0.right/1988.0.1468.864/68.0.1468.960@68.0.1468.960" timestamp="1645142652866" />
+    <state width="1425" height="282" key="GridCell.Tab.0.right/68.0.1468.864@68.0.1468.864" timestamp="1650619903247" />
+    <state width="1469" height="286" key="GridCell.Tab.1.bottom" timestamp="1646300766174">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state width="1469" height="286" key="GridCell.Tab.1.bottom/68.0.1468.864@68.0.1468.864" timestamp="1646300766174" />
+    <state width="1469" height="286" key="GridCell.Tab.1.center" timestamp="1646300766173">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state width="1469" height="286" key="GridCell.Tab.1.center/68.0.1468.864@68.0.1468.864" timestamp="1646300766173" />
+    <state width="1469" height="286" key="GridCell.Tab.1.left" timestamp="1646300766173">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state width="1469" height="286" key="GridCell.Tab.1.left/68.0.1468.864@68.0.1468.864" timestamp="1646300766173" />
+    <state width="1469" height="286" key="GridCell.Tab.1.right" timestamp="1646300766173">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state width="1469" height="286" key="GridCell.Tab.1.right/68.0.1468.864@68.0.1468.864" timestamp="1646300766173" />
+    <state x="161" y="93" width="1282" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1646790684691">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state x="161" y="93" width="1282" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/68.0.1468.864@68.0.1468.864" timestamp="1646790684691" />
+    <state x="521" y="271" width="642" height="534" key="find.popup" timestamp="1647249695440">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state x="521" y="271" width="642" height="534" key="find.popup/68.0.1468.864@68.0.1468.864" timestamp="1647249695440" />
+    <state x="681" y="163" key="ftp.server.browser" timestamp="1650266026011">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state x="681" y="163" key="ftp.server.browser/68.0.1468.864@68.0.1468.864" timestamp="1650266026011" />
+    <state x="466" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1646792536691">
+      <screen x="68" y="0" width="1468" height="864" />
+    </state>
+    <state x="466" y="181" width="672" height="678" key="search.everywhere.popup/68.0.1468.864@68.0.1468.864" timestamp="1646792536691" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MxOnline$sql_inject_test.coverage" NAME="sql_inject_test Coverage Results" MODIFIED="1647318461080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/MxOnline$redis_test.coverage" NAME="redis-test Coverage Results" MODIFIED="1635747348767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/MxOnline$facialRecognize.coverage" NAME="facialRecognize Coverage Results" MODIFIED="1650419667837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/MxOnline$AliSms.coverage" NAME="AliSms Coverage Results" MODIFIED="1650601562721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/MxOnline$random_str.coverage" NAME="random_str Coverage Results" MODIFIED="1634282960418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/MxOnline$YunPian.coverage" NAME="YunPian Coverage Results" MODIFIED="1634283332251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+  </component>
+</project>
